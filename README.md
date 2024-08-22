@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shubham Patil  
 - 👀 I’m interested in Cloud Security
 - 🌱 I’m currently learning Terraform  
-- 💞️ I’m looking to collaborate on Cloud Engineering and cybersecurity projects
+- 💞️ I’m looking to collaborate on Cloud Engineering and Cybersecurity projects
 
 
 <!---
